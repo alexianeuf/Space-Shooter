@@ -1,8 +1,8 @@
 # spaceShooter
-Creating by following a classes for Johnathan Weinberger @GameDevHQ 
+Creating by following a classe from Johnathan Weinberger @GameDevHQ 
 
 Upgrades will be mades and listing there.
 
-Upgrades :
+Upgrades Made :
 
 Adding lives powerUp (in progress)
