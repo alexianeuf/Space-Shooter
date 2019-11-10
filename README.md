@@ -5,4 +5,6 @@ Upgrades will be mades and listing there.
 
 Upgrades Made :
 
-Adding lives powerUp (in progress)
+  Player :
+      - Randomize engine failure apparition
+      - Adding lives powerUp (in progress)
